@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Notes Application
 
 A simple and intuitive notes-taking web application built with React and Vite. This app allows users to create, edit, delete, and search through their notes, with data persisted locally in the browser.
