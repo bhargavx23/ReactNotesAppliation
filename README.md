@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> f7c4b9ecbfa8be96f4534f82316d439a7f768c8b
 # Notes Application
 
 A simple and intuitive notes-taking web application built with React and Vite. This app allows users to create, edit, delete, and search through their notes, with data persisted locally in the browser.
@@ -113,3 +117,11 @@ NotesApplication/
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+<<<<<<< HEAD
+=======
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+>>>>>>> 4ad3d7922e42a10c5de15a5da2223df3210d7936
+>>>>>>> f7c4b9ecbfa8be96f4534f82316d439a7f768c8b
